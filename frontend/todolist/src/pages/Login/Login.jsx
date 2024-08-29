@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
-import Navbar from '../../components/Navbar/Navbar';
 import { Link, useNavigate } from 'react-router-dom';
 import PasswordInput from '../../components/Input/PasswordInput';
-import backgroundImage from '../../assets/bg2.jpg';
 import { validateEmail } from '../../utils/helper';
 import axiosInstance from '../../utils/axiosInstance';
 
@@ -47,8 +45,7 @@ const Login = () => {
      }
   };
 
-  return <>
-    <div
+  return <div
       className="flex items-center justify-center bg-center min-h-screen"
       style={{
         background: 'linear-gradient(90deg, #D7DDE8 0%, #757F9A 100%)',
@@ -87,8 +84,7 @@ const Login = () => {
             </p>
           </form>
         </div>
-      </div>  
-  </>
+      </div>
 }
 
 export default Login
