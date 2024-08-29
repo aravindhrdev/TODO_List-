@@ -24,6 +24,22 @@ Feel free to test the app and experience its features firsthand.
 - Grouping tasks into folders
 - Reminders and notifications of undone and upcoming tasks
 
+## Sample Screenshots:
+- ![Screenshot 2024-08-29 210156](https://github.com/user-attachments/assets/5131c48b-0215-4d41-a453-660767eb5845)
+- ![Screenshot 2024-08-29 210319](https://github.com/user-attachments/assets/dd4b9ea1-eb29-4937-a14d-fe2d452f8fa2)
+- ![Screenshot 2024-08-29 210436](https://github.com/user-attachments/assets/a9754633-b6aa-408a-badf-c4243bd6e4ab)
+
+
+
+
+
+
+
+
+
+
+
+
 ## Technologies Used
 
 - **Frontend**: 
